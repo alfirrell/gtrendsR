@@ -6,6 +6,10 @@
 
 - Added unit test using the tinytest package (#316).
 
+- Added support for NULL proxy domain, and additional curl options (#339).
+
+- Handling related topics with only "Top" or "Rising" sections, as well as those with both.
+
 # gtrendsR 1.4.4
 
 - Dates are parsed correctly when `time = "all"` (#309). @JBleher
